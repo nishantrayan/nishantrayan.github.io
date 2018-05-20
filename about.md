@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Nishant is awesome ... is what he would have loved to put on this page but he is not. Take it from his ~~personal ego~~- (His personal assistant). He is a menial creature who loves to code, dance, cook , play badminton and travel. He claims that he wrote this while on a vacation in Sao Paulo, Brazil. Oh well... I guess we will never know.
+Also he claims he looks good in this picture.. I wouldn't dare to judge.
+![Nishant's awesome picture]({{ "/assets/profile_picture.jpg" | absolute_url }})
