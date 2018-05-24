@@ -40,3 +40,7 @@ Then we went to a mercado (market) near the Faro Lima bus stand and had some gre
 ![Sunset]({{ "/assets/brazil/por-do-sol-parque.jpg" | absolute_url }})
 
 Then we headed to the Shopping mall citade on Av. Paulista and exchanged our USD for Reals and had dinner there before heading to our hotel room. We were tired and felt like we had a very productive day.
+
+Day 4
+-----
+We woke up at around 8:30 and had breakfast at our hotel. Then we left for the GRU airport after checking out. It was one of the largest airports in South America (so we were told at the hotel lobby). So we buffered ample time to make sure we covered for the language differences and any last minute things. We were there about 2 hours before our flight deparature (embarque in portugese) time. There was only one thing to do in such situations. Go to a fancy airport lounge and relax the hell out... We had good lunch . More Pao De Quiejo of course and some rest. We then boarded our flight and with a bitter sweet good bye to Sao Paulo we flew to Foz de Iguassu. It is a small city that attracts millions of tourists every year from all around the world for one magnificent nature's wonder (Iguassu falls) that is located at the border of 3 countries - Brazil, Argentina, Paraguay.  We made our reservations for an adventurous trip at our resort and had an amazing dinner and headed to our room to rest for the day
