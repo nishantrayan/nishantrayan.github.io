@@ -44,3 +44,16 @@ Then we headed to the Shopping mall citade on Av. Paulista and exchanged our USD
 Day 4
 -----
 We woke up at around 8:30 and had breakfast at our hotel. Then we left for the GRU airport after checking out. It was one of the largest airports in South America (so we were told at the hotel lobby). So we buffered ample time to make sure we covered for the language differences and any last minute things. We were there about 2 hours before our flight deparature (embarque in portugese) time. There was only one thing to do in such situations. Go to a fancy airport lounge and relax the hell out... We had good lunch . More Pao De Quiejo of course and some rest. We then boarded our flight and with a bitter sweet good bye to Sao Paulo we flew to Foz de Iguassu. It is a small city that attracts millions of tourists every year from all around the world for one magnificent nature's wonder (Iguassu falls) that is located at the border of 3 countries - Brazil, Argentina, Paraguay.  We made our reservations for an adventurous trip at our resort and had an amazing dinner and headed to our room to rest for the day
+
+Day 5
+-----
+After we woke up we went to have an amazing buffet breakfast at our resort. It was early - 9AM - I know .. I know). After breakfast we went to the lobby to be greeted by our guide for the day trip to Iguassu falls. We introduced ourselves and headed to his car. It was a private tour with a private guide which made us look like such a tourist but then again we are :) First stop - Bird zoo,
+![Bird zoo]({{"/assets/brazil/parque-das-aves.jpg" | absolute_url }})
+![US Birds]({{"/assets/brazil/us-birds.jpg" | absolute_url }})
+After an amazing brief encounter with the birds we were greeted again at the exit by our guide. I had an empada to prepare myself to the long (just 10km) drive to the falls. On the way our guide explained a few things about the park. One particular fact about the 3 species of Jaguars fascinated us. We also really enjoyed the sense of humour of our guide who made our trip really memorable. He also helped us with taking some of the most memorable photos of the falls and the amazing panaromic view. Nothing could have prepared us to the stunning view of the falls though. It was like an entire ocean falling from the sky all around you. We stuck to the Brazil side but was thoroughly enthralled.
+![Iguassu falls]({{"/assets/brazil/iguassu-falls.jpg" | absolute_url }})
+![Iguassu US]({{ "/assets/brazil/us-iguassu-falls.jpg" | absolute_url }})
+
+After being briefly mind blown by the beauty of nature we had lunch at the very top of the falls right next to the point were the water seemed to disappear (and fall).
+Oh yeah.. there were plenty of racoons
+![Iguassu Racoons]({{ "/assets/brazil/us-racoons.jpg" | absolute_url }})
