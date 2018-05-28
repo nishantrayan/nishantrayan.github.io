@@ -57,3 +57,12 @@ After an amazing brief encounter with the birds we were greeted again at the exi
 After being briefly mind blown by the beauty of nature we had lunch at the very top of the falls right next to the point were the water seemed to disappear (and fall).
 Oh yeah.. there were plenty of racoons
 ![Iguassu Racoons]({{ "/assets/brazil/us-racoons.jpg" | absolute_url }})
+
+Day 6
+-----
+So the goal was to get on a plane from IGU airport to Rio. Boy was it stressful. We had breakfast at the resort and packed our stuff and checked out. We were greeted by our guide from the previous day who offered to take us to the airport in his car. Offer taken :)
+We got to the airport at about 11 AM which was 2 hours before our scheduled flight deparature time (12:55 PM). Being a small airport and its proximity to the resort we thought 2 hours was plenty of time get through security and checkin. Boy were we wrong. The line to checkin and get our boarding pass was 1.5 hours long. Finally when we got to the checkin counter the person at the desk told us to run to a window across to pay for the baggage checkin which baffled us but we still went there. We met with few very stressed travelers who were heading to Rio as well and have had their flight changed from the previous day. We waited for 5 minutes at the window for the people at the counter to give us the receipt. Then we ran back to the checkin counter to get our boarding passes. Then we ran to the gate only to find there was another line to get through security :O  (Internal screams). Luckily it went fast. We rushed to the gate. The doors opened and it head to a vast open space. Unlike in other airports we have been to there is not passage way from the gate to the flight.  When we went through the gate a man pointed his finger at one of the many planes that was "parked" outside and said "That is your plane" . We just ran to our plan and climbed its steps. When we layed our butts on our alloted seats it was 12:45 PM. Wow!
+There were many many more passengers who boarded the flight after us up until 1:15 PM. The flight finally took off at 1:20 PM. But luckily the wind favored us and we reached Rio at about 3:30 PM . We checked into our hotel on the Copacabana beach. We went to its roof where we had an amazing view of the beach.
+![copacabana]({{"/assets/brazil/copacabana.jpg" | absolute_url }})
+
+
