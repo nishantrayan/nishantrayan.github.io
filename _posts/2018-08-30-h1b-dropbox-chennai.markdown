@@ -1,5 +1,8 @@
-Dropbox Visa Stamping Process
-=============================
+---
+layout: post
+title:  "Dropbox Visa Stamping Process"
+---
+
 It can be a stressful wait for US non-immigrants who travel back to their home country and choose to get their visa stamped. I empathize with the experience as I have gone through the process twice in the last 2 years. The first time I went through it was more nerve racking simply because I went through it for the first time and the time to hear back from the US consulate in Chennai was longer than what most people in my boat experienced.
 
 Why dropbox?
