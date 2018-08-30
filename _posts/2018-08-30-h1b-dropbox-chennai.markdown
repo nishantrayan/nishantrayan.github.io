@@ -15,13 +15,18 @@ First I want to clarify a few things that people falsely assume when applying fo
 2. Its always a good idea to carry the **original I-797** approval notice when you travel internationally. I once had a conversation with a CBP officer who gave me this tip when I showed him a copy.
 3. Dropbox **DOEST NOT** need an appointment. You can go to the chosen location at any day (within 3 months after you receive the dropbox waiver confirmation)
 4. You can do the dropbox in a country **other than your home country**. The only risk is that if things take time or there is delay you risk being stuck in a foreign country without a valid passport and may also be subject to the visa restrictions for that country. For some folks this risk is acceptable and I have rarely come across folks actually experiencing unreasonable delays.
+5. Please check your complete [eligibility for the dropbox](http://www.ustraveldocs.com/in/in-niv-visarenew.asp)
 
 Process
 -------
 So you have an upcoming trip to your home country or have an international trip after you expired H1B stamp. Based on your individual preference you can chose to do it in your home country (as part of your trip) or in a different country. Regardless of which location you choose the documents you need to submit are the same and the only impact it might have is on the overall processing time. In a country like India where there are a lot of H1B holders this process may be in the order of weeks but in other countries like Mexico or Canada it might be in the order of days.
 Here are the list of things you need
+
 ### DS-160
+This is probably the most time consuming part of the process. The form can be located in the [ceac website](http://ceac.state.gov/genniv/) where you can start a new application and save for later. Remember to save the application number and answer to a secret question and you will need them to resume filling out this long and druelling form that requires you fill in everything from your college period and every international travel in the last 5 years. I recommend you save half a day for this exercise. After you complete the form you will receive a confirmation page with a bar code and summary page. Be sure to download it in a PDF format
+
 ### Dropbox interview waiver confirmation
+
 ### Copy of I-797
 ### Passport size photo
 ### Passport with all Visa stamps
