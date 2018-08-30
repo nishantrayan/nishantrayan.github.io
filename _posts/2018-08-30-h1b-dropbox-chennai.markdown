@@ -37,7 +37,7 @@ This one is straightforward. Your employer would have given you a two page docum
 I get my passport photo from walgreens which is pretty quick (in 15 minutes) and they always know the required size of the photo (2x2 inches) and quality. Remember to not wear glasses. No smiling either. You only need one photo but they will give you a set of 2. Have the other one as backup.
 
 ### Passport with all Visa stamps
-Last and the most important document is your passport with all prior visa stamps. Most importantly, it should have the most recent **H1B** stamp. If your H1B is still valid and you need a new one they will strike it with "Cancelled without prejudice" stamp. But that will be done as part of the visa printing process. So don't worry about it for now.
+Last and the most important document is your passport with all prior visa stamps. If you have more than one passport with prior H1B stamps please take them with you. In my recent experience with stamping they returned prior passports at the counter. But it is always good to carry them with you. If your H1B is still valid and you need a new one they will strike the old one with "Cancelled without prejudice" stamp. But that will be done as part of the visa printing process. So don't worry about it for now.
 
 Thats it! You are all set for your international travel. But don't celebrate now. *Stay calm and read on*
 
