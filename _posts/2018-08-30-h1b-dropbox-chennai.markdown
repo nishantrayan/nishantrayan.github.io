@@ -26,7 +26,15 @@ Here are the list of things you need
 This is probably the most time consuming part of the process. The form can be located in the [ceac website](http://ceac.state.gov/genniv/) where you can start a new application and save for later. Remember to save the application number and answer to a secret question and you will need them to resume filling out this long and druelling form that requires you fill in everything from your college period and every international travel in the last 5 years. I recommend you save half a day for this exercise. After you complete the form you will receive a confirmation page with a bar code and summary page. Be sure to download it in a PDF format
 
 ### Dropbox interview waiver confirmation
+You then you to head to the [cgifederal website](https://cgifederal.secure.force.com/) that requires you to register and create and account. After you login head to "New appointment / Scheduled appointment" eventhough dropbox system doesn't require and appointment. Please be patient as the website walks you through process and finally declares that you don't need an appointment and directs you to a payment page.
+The payment is the trickiest part of the process. It requires you to have a valid indian bank account. If you don't have one time to call your friend / relative who does and ask them to help out. This procedure is exactly same as the demo / instructions in [this youtube video](https://www.youtube.com/watch?v=NRGU12HuIdQ&t=7m40s). The step that is not covered in the video are logging into the bank website like ICICI / HDFC and adding beneficiary with the IFSC code as indicated in the payment page. The **TIER** code you get is unique to you and once you make the payment the code will be actived and an email should be sent to you. I noticed in my recent dropbox experience that the email was delayed and when I logged back into the cgifederal website and continued all the way to the "receipt number" page it simply showed a popup that the code is activated and asked to use it.  
 
 ### Copy of I-797
+This one is straightforward. Your employer would have given you a two page document called I-797A that has the "Notice of action - Approved" text on it. Please take a physical copy of these two pages. Its ok if you take the first page of both sheets on a back to back A4 sheet.
+
 ### Passport size photo
+I get my passport photo from walgreens which is pretty quick and know the actual size of the photo (2x2 inches) and quality. Remember to not wear glasses. No smiling either. You only need one photo but they will give you a set of 2. Have the other one as backup.
+
 ### Passport with all Visa stamps
+Last and the most important document is your passport with all prior visa stamps. Most importantly it should have the most recent **H1B** stamp. If your H1B is still valid and you need a new one they will strike it with "Cancelled without prejudice" stamp. But that will be done as part of the visa printing process. So don't worry about it.
+
