@@ -17,8 +17,8 @@ First I want to clarify a few things that people falsely assume when applying fo
 4. You can do the dropbox in a country **other than your home country**. The only risk is that if things take time or there is delay you risk being stuck in a foreign country without a valid passport and may also be subject to the visa restrictions for that country. For some folks this risk is acceptable and I have rarely come across folks actually experiencing unreasonable delays.
 5. Please check your complete [eligibility for the dropbox](http://www.ustraveldocs.com/in/in-niv-visarenew.asp)
 
-Process
--------
+Preparation
+-----------
 So you have an upcoming trip to your home country or have an international trip after you expired H1B stamp. Based on your individual preference you can chose to do it in your home country (as part of your trip) or in a different country. Regardless of which location you choose the documents you need to submit are the same and the only impact it might have is on the overall processing time. In a country like India where there are a lot of H1B holders this process may be in the order of weeks but in other countries like Mexico or Canada it might be in the order of days.
 Here are the list of things you need
 
@@ -38,3 +38,19 @@ I get my passport photo from walgreens which is pretty quick and know the actual
 ### Passport with all Visa stamps
 Last and the most important document is your passport with all prior visa stamps. Most importantly it should have the most recent **H1B** stamp. If your H1B is still valid and you need a new one they will strike it with "Cancelled without prejudice" stamp. But that will be done as part of the visa printing process. So don't worry about it.
 
+Thats it! You are all set for your international travel. But don't celebrate now. *Stay calm and read on*
+
+Dropbox Process
+---------------
+After you land in the foreign country the first thing you should consider doing is heading to the dropbox location you selected and submitting the documents (mentioned above). The best days to submit documents are tuesday,wednesday, thursday as the days closer to weekends tend to get busy with lot more applicants. If you are lucky you should be in and out in 10 minutes tops.
+Then begins the waiting period. If you have chosen to pickup the passport yourself (which I prefer as I don't trust the mail courier service with something as important as my passport) you can check the status of your passport in one of the following ways
+1. Send an email to  passportstatus@ustraveldocs.com with your passport number in subject and body. You will received an automatice response with your passport status. I have usually seen one of two responses : "Delivered to Post" or "Ready for Pickup"
+2. Check the [ceac status page](https://ceac.state.gov/CEACStatTracker/Status.aspx) and plugin in your DS-160 application number to get status of the passport as popup. I have usually seen "Case Created" after you submit the documents, then "Administrative Processing" and finally "Issued" at which point you should check the passport status as indicated in 1) or 3)
+3. Check the [cgifederal website](https://cgifederal.secure.force.com/) . After you login you should see a lower right tile which says the status of your passport. Once your passport is ready it will say "Your passport is ready for pickup"
+4. Finally once your passport is ready ustraveldocs will send an email to you indicating that your passport is ready for pickup. So watch out for that.
+
+```
+Your document(s) have been collected from the US Embassy/Consulate 
+
+The passport number being returned is
+```
