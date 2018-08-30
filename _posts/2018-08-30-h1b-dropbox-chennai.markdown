@@ -1,7 +1,5 @@
-Dropbox experience
-==================
-The wait
--------------------
+Dropbox Visa Stamping Process
+=============================
 It can be a stressful wait for US non-immigrants who travel back to their home country and choose to get their visa stamped. I empathize with the experience as I have gone through the process twice in the last 2 years. The first time I went through it was more nerve racking simply because I went through it for the first time and the time to hear back from the US consulate in Chennai was longer than what most people in my boat experienced.
 
 Why dropbox?
@@ -42,7 +40,7 @@ Thats it! You are all set for your international travel. But don't celebrate now
 
 Dropbox Process
 ---------------
-After you land in the foreign country the first thing you should consider doing is heading to the dropbox location you selected and submitting the documents (mentioned above). The best days to submit documents are tuesday,wednesday, thursday as the days closer to weekends tend to get busy with lot more applicants. If you are lucky you should be in and out in 10 minutes tops.
+After you land in the foreign country the first thing you should consider doing is heading to the dropbox location you selected and submitting the documents (mentioned above). The best days to submit documents are tuesday,wednesday, thursday as the days closer to weekends tend to get busy with lot more applicants. If you are lucky you should be in and out in 10 minutes tops. The person at the counter will stamp your interview waiver form with the date which you can use later to collect.
 Then begins the waiting period. If you have chosen to pickup the passport yourself (which I prefer as I don't trust the mail courier service with something as important as my passport) you can check the status of your passport in one of the following ways
 1. Send an email to  passportstatus@ustraveldocs.com with your passport number in subject and body. You will received an automatice response with your passport status. I have usually seen one of two responses : "Delivered to Post" or "Ready for Pickup"
 2. Check the [ceac status page](https://ceac.state.gov/CEACStatTracker/Status.aspx) and plugin in your DS-160 application number to get status of the passport as popup. I have usually seen "Case Created" after you submit the documents, then "Administrative Processing" and finally "Issued" at which point you should check the passport status as indicated in 1) or 3)
@@ -54,3 +52,8 @@ Your document(s) have been collected from the US Embassy/Consulate
 
 The passport number being returned is
 ```
+After your passport is ready for pickup you can head to the same place you gave your passport and show an ID proof along with your passport number. I assume (not sure) that for non-home country pickup you can show something like US state ID or driver license. They will be able to pull up passport based on passport number and give it you.
+
+The Stress
+----------
+The scariest and the most anxious part of the dropbox process is the lack of information about duration of time. Depending on your personality and your duration of stay in foreign country it can cause a lot of stress having the potential to ruin your vacation especially with recent spike in long administrative processing times. Try not to let this ruin your quality time with family or vacation time. Only thing you can do is check the status of your passport and rush to get your passport. If you plan to travel to other parts of the country you can collect it when you are back to the location where you gave it. They are usually flexible in holding the passport for a short period of time (although I am not sure what the maximum limit is)
