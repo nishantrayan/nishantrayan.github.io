@@ -59,4 +59,6 @@ After your passport is ready for pickup you can head to the same place you gave 
 The Stress
 ----------
 The scariest and the most anxious part of the dropbox process is the lack of information about duration of time. Depending on your personality and your duration of stay in foreign country it can cause a lot of stress having the potential to ruin your vacation especially with recent spike in long administrative processing times. Try not to let this ruin your quality time with family or vacation time. Only thing you can do is check the status of your passport and rush to get your passport. If you plan to travel to other parts of the country you can collect it when you are back to the location where you gave it. They are usually flexible in holding the passport for a short period of time (although I am not sure what the maximum limit is)
+
+
 Hope the information and tips above helps with your smooth dropbox stamping process. You can reach me at the contact information below if you have any question
