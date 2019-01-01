@@ -22,6 +22,7 @@ In my personal life my partner and I have been able to build a very deep & meani
 In my work life I have had many opportunities to level up by sharing my knowledge and expertise to uplift other engineers like me which has been a very satisfying experience in itself. I am also fortunate to have a great manager who is also the best mentor who has guided me through some rough and some of the hardest decisions I have had to make as an engineer
 
 Eventhough 2018 has been a wonderful year I am really looking forward to 2019 and what it has in store for me. After many reflections instead of actually looking at "planned" list of things I feel its important for me to list things that are important to me and then figure out the milestones to look forward to. 
+
 1. Immigration
 1. Relationship, Career & Health
 1. Finance, Family / Friends & Life skills
@@ -29,10 +30,9 @@ Eventhough 2018 has been a wonderful year I am really looking forward to 2019 an
 
 For me the #1 item on the list is immigration. Being an immigrant myself and having seen family and friends go through some tough times being caught up in immigration system I have come to realize that it is imperative for me to have a stable life in the US. I look forward to 2019 as a year I make  progress towards my green card process.
 
-Deep and meaningful relationship is very important to me as well. I hope to make important decision with my partner that hopefully will set some foundation stones for a stable family that one day we are hoping to build. Realized that work is
+Deep and meaningful relationship is very important to me as well. I hope to make important decision with my partner that hopefully will set some foundation stones for a stable family that one day we are hoping to build. I strongly believe that having a strong work environment that gives purpose for me to wake up and be available to make a difference is crucial. For me the reason cannot be money or promotion or recognition. My quest for meaningful work environment has been on for over 10 years and I suspect that it will continue for foreseable future. I am very excited about all the innovations happening in my field and to be part of it if I can. We all say to ourselves "I will work out more this new year", "I will exercise everyday this year" but I have tried and failed at making it a reality. My dad used to always remind me that without good health everything in life just levels down to nothing and take good care of your health to be successful. I am fortunate to live in a city that has a health centric culture and it doesn't take much to step outside to go for a run or a long walk. 
 
 We are also looking forward to build more meaningful relationships with like minded couples and families. I have listed life skills as last item in my #3 item but really does deserve a lot of importance. 2018 was a year where I had to step up and balance the time in my life efficiently. I have had to make some hard choices like step back from the dancing team so I can re chanel my energy towards things that took higher priority in my life.There is going to be many similar tough choices that have to be made and many of life's many commitments will stream towards me seemingly never ending. I hope to get better at managing them and stepping up to the challenge.
 
-  
   
   
