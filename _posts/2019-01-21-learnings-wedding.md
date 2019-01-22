@@ -1,6 +1,6 @@
 # What just happened here ? 
 My wedding! Thats right! I got married recently. Yes! It was in San Francisco and Yes! It was raining on the day of my wedding 
-and Yes! ... *<insert assertive statement that no one really cares>*
+and Yes! ... `*<insert assertive statement that no one really cares>*`
   
 # Why do it ?
 My (now) wife and I had been dating for about 3 years. At some point we did talk about marriage as a potential future as we started to think about family and other long term commitments. We both felt that having the rubber stamp for a socio-legal system was important to getting to where we wanted to be as a couple. Now as I say this I recognize that marriage is not for everyone. Different people I have come across have struggled with the idea and those who want to get married have a hard time finding **the one**. That is always the elixir we all dream of doesn't it.
@@ -17,3 +17,5 @@ I will admit that the wedding was much more intimate and perfectly elegant to ou
 Planning process is the unsexy part of all weddings. It required  long arguments, long and very long emails and finally compromises (lots of them).
 My wife and I agreed early on that we **had** to have a wedding planner. The motivation was mostly based on time constraints. We both had important career changing roads ahead of us and were nervous about the time and the energy to plan a large event mostly because we *never* planned an event for more that 2 people in our lives as a couple. 
 
+# The Planner
+When we embarked on our mission to find the perfect wedding planner our job description was literally: Someone who does everything for us and all we needed to do was show up at the wedding. We couldn't have been further off from reality. We hired a planner who helped us a lot and probably more than we knew to give credit for but we did not expect the influx of information (mostly through emails) and amount of the cognitive load it would have on both of us. There were many long emails with references to other long emails which did not match the subject and written in **RED**. 
