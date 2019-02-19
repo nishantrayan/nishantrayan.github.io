@@ -20,4 +20,13 @@ Me and my partner strive to eat good food. On most days we prefer to cook at hom
 
 Healthy life is not all about being physically active and eating healtily; having a healthy mind is equally important to me as well. Through meditation I have come to listen and tame my otherwise mischievous monkey brain. I have learnt a lot about myself and developed a sense of healthy self satisfaction by sitting still and focusing on my breathing. Its important now for me to meditate atleast 15 minutes everyday and after I overcame the initial hurdle of self-proclaimed "busy-life syndrome" I have gotten much better at it.
 
+## Nothing is impossible through persistent efforts
+
+### Habits are important for growth
+
+Over the last 3 years I have formed (and lost) many habits. My question began really after I read `The Power of Less by Leo Babauta`. Eventhough the book was about how to lead a minimalistic life it had some very powerful prescription about how and why to build morning routines to form great habits. Since reading that book I have developed a 3 hour morning routine that involves a variety of activities which have empowered me to get better at what ever I wanted to achieve: running, playing guitar, meditating...
+
+### Self motivation leads to success
+
+I believe that persistence is the manifestation of a very important quality of a highly successful human being: Self motivation. It has a very humble beginning: you and your mind. Anyone who wants to be successful can set their minds and motivate themselves to reach a goal higher than themselves. They are not "told" what to do, they discover it themselves and relentlessly work towards their whatever they want to achieve. 
 
