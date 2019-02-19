@@ -4,7 +4,7 @@ title:  "My principles"
 ---
 
 
-I believe that everyone should have a principle in life. I recently read book `Principles by Ray Dalio`. If you haven't already I promise you that I will be one of the best use of your time. Through this blog I wish to highlight some of the core principles I have set for myself. 
+I believe that everyone should have a principle in life. I recently read book `Principles by Ray Dalio`. If you haven't already I promise you that I will be one of the best use of your time. Through this blog I wish to highlight some of the core principles I have set for myself. **I fully intend on updating my principle list as and when I discover and apply them in my lives. So please see them as a living document**
 
 ## Healthy living is important
 
@@ -28,5 +28,5 @@ Over the last 3 years I have formed (and lost) many habits. My question began re
 
 ### Self motivation leads to success
 
-I believe that persistence is the manifestation of a very important quality of a highly successful human being: Self motivation. It has a very humble beginning: you and your mind. Anyone who wants to be successful can set their minds and motivate themselves to reach a goal higher than themselves. They are not "told" what to do, they discover it themselves and relentlessly work towards their whatever they want to achieve. 
+I believe that persistence is the manifestation of a very important quality of a highly successful human being: Self motivation. It has a very humble beginning: you and your mind. Anyone who wants to be successful can set their minds and motivate themselves to reach a goal higher than themselves. They are not "told" what to do, they discover it themselves and relentlessly work towards their whatever they want to achieve.
 
