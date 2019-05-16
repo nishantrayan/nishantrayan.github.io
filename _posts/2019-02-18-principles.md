@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "My principles"
+toc: true
 ---
 
 
