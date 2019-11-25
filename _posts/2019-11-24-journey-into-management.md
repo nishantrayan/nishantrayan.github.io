@@ -28,9 +28,13 @@ There were few things I learnt through my struggle to become a better engineer w
 ### In the end, what matters are results
 
 I started leading large and complex projects with these principles. Sure, there were failures, and there were moments that pulled me emotionally to the bottom. Every struggle I had helped me become a better engineer and an effective tech lead. 
-Tech lead on multiple projects. 
-Two roads diverged in the woods
-    - I took the road that I was less comfortable in
+
+## The Choice
+I realized that being a leader is a choice. Its a conscious choice one has to take. Sure, you may already have the skills to be a leader, someone people can look up to and follow, into a better future for them but you have to make the choice. I had the choice.
+Two roads divered in the woods, one of them would make me a better engineer something I have always wanted in life and the other was an uncertain path filled with wild things in every corner. I took the road that scared the heck out of me. Why did I do it? I could have continued down my comfortable path of tech leading, and delivering large and complex solutions to real life problems. 
+To be blunt, I don't know! Something in me told me that was the right path and I knew I had the best support team cheering for me and supporting me. I did not take that decision likely. I still don't. Every day I think about that choice and think, what can I do today that will make me the most amazing leader that people would want to trust their careers with. It is not something I take for granted. I want people to believe in me, I don't want to let them down. The fear definitely keeps me in check! It pushes me to think into the future, work with people to understand and learn
+
+## The Journey
 Training & Support - Multiple sessions
 
 Responsibilities
