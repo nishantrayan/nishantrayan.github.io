@@ -8,7 +8,7 @@ This year I took a leap. A leap that always terrified me. The journey that every
 ## The Fear
 I have been an engineer since I finshed my undergrad in 2008. Well, its over 11 years ago. But I was an engineer before then (I just didn't have a degree). I spent a lot of time at my local CSC computer center to print the pyramid of stars. Anyone who was learning to code in the early 2000s know exactly what I am talking about. Flow charts were my cup of tea. I loved expressing complex solutions using simple logical constructs.
 
-Since then, I have worked for multiple tech companies contributing code, ideas and constructive arguments with many smart engineers like me. There were definitly times where I felt like sh* when I made production impacting blunders. Bugs that have caused the entire company to come to a halt and NO, I did not get fired for that, at-least not until a later point in my career.
+Since then, I have worked for multiple tech companies contributing code, ideas and constructive arguments with many smart engineers. There were definitly times where I felt like sh* when I made production impacting blunders. Bugs that have caused the entire company to come to a halt and NO, I did not get fired for that, at-least not until a later point in my career.
 
 Throughout my journey in the tech industry there was one thing that has always been a constant. My fear of being a manager. I feared it, not because it was difficult but because, it required programming human interactions and humans don't follow 0s and 1s. There are many ways people react and they don't always follow your script. You can't spend the night coming up with a great solution and type feverishly into someone's brain. This uncertainty meant all that I have learnt in my last 10 years were no longer applicable in my job and it almost felt like starting from scratch.
   
@@ -29,14 +29,14 @@ There were few things I learnt through my struggle to become a better engineer w
 1. Make other's time worthwhile
 1. In the end, what matters are results
 
-I started leading large and complex projects with these principles. Sure, there were failures, and there were moments that pulled me emotionally to the bottom. Every struggle I had helped me become a better engineer and an effective tech lead. 
+I started leading large and complex projects with these principles. Sure, there were failures, and there were moments that pulled me emotionally to the bottom. Every struggle I had, helped me become a better engineer and an effective tech lead. 
 
 
 ## The Choice
 
 I realized that being a leader is a choice. Its a conscious choice one has to take. Sure, you may already have the skills to be a leader, someone people can look up to and follow into a better future for them but you have to make the choice. 
 
-Two roads divered in the woods, one of them would make me a better engineer something I have always wanted in life and the other was an uncertain path filled with wild things in every corner. I took the road that scared the heck out of me. Why did I do it? I could have continued down my comfortable path of tech leading, and delivering large and complex solutions to real life problems. 
+Two roads diverged in the woods, one of them would make me a better engineer something I have always wanted in life and the other was an uncertain path filled with wild things in every corner. I took the road that scared the heck out of me. Why did I do it? I could have continued down my comfortable path of tech leading, and delivering large and complex solutions to real life problems. 
 To be blunt, I don't know! Something in me told me that was the right path and I knew I had the best support team cheering for me and supporting me. I did not take that decision lightly. I still don't. Every day I think about that choice and think, what can I do today that will make me the most amazing leader that people would want to trust their careers with. It is not something I take for granted. I want people to believe in me, I don't want to let them down. The fear definitely keeps me in check! It pushes me to think into the future, work with people to understand and learn.
 
 ## The Future
