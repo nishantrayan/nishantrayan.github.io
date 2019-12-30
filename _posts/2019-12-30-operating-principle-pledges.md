@@ -38,5 +38,13 @@ This is my 2020 operating principles pledge sheet which includes several improve
 2. I should have a clear plan towards my goals for every month
 3. I should know when I am off course
 
+## Digital minimalist
+### Pledge
+1. I intend to keep my inbox to less than 10 emails 
+2. I intend to keep actionable digital notifications to minimum
 
-These operation principle pledges are subject to change. Then initial draft of it was written when I had clear mental space as part of my 2020 goal cognition.
+### Signs of success
+1. I should have few notifications that are important and actionable
+2. I should be able to respond to emails and notifications on time without any major slips
+
+These operating principle pledges are subject to change. The initial draft of it was written when I had clear mental space as part of my 2020 goal cognition exercise.
