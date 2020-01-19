@@ -1,10 +1,8 @@
 ---
-youtubeId: kU1DI8HsYAg
----
----
 layout: post
 title:  "[WIP] I want to fail"
 toc: true
+youtubeId: kU1DI8HsYAg
 ---
 
 {% include youtubePlayer.html id=page.youtubeId %}
