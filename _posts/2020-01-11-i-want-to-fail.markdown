@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[WIP] I want to fail"
+title:  "I want to fail"
 toc: true
 ---
 
