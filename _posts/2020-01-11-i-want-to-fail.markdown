@@ -2,10 +2,9 @@
 layout: post
 title:  "[WIP] I want to fail"
 toc: true
-youtubeId: kU1DI8HsYAg
 ---
 
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include youtubePlayer.html id="kU1DI8HsYAg" alt="Barbara Ted Talk" %}
 
 
 From the title you probably think I am self deprecating and depressed. I mean why would someone *want to fail*. We all want to succeed and we know that we become what we we think and do. Pondering and actively wanting to fail will only make one a failure in the end.
