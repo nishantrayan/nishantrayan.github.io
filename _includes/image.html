@@ -1,10 +1,2 @@
 {% capture imagePath %}/assets/posts/{{ page.date | date: "%Y-%m-%d" }}-{{ page.title | slugify }}/{{ include.name }}{% endcapture %}
-{% if include.caption %}
-    <figure>
-        <img src="/assets/posts/{{ imagePath }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %} {% if include.width %} width="{{ include.width }}" {% endif %}/>
-        <figcaption>{{ include.caption }}</figcaption>
-    </figure>
-{% else %}
-    <img src="/assets/posts/{{ imagePath }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %} {% if include.width %} width="{{ include.width }}" {% endif %}/>
-{% endif %}
-![Test]({{ imagePath | absolute_url }})
+![{{ include.caption }}]({{ imagePath | absolute_url }})
