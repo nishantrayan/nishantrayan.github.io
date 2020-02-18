@@ -1,10 +1,8 @@
-
 ---
 layout: post
 title:  "Biryani Family Recipe"
 toc: true
 ---
-
 The following recipe should be sufficient for 5 people.
 
 ## Ingredients
