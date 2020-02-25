@@ -35,3 +35,5 @@ toc: true
 14. Add the fried ingredients to the cooked dhal
 15. Add some fresh coriander leaves
 
+## And it looks...
+{% include image.html name="sambhar-cooker.jpg" caption="Sambhar in rice cooker" %}
