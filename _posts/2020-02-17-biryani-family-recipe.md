@@ -7,21 +7,21 @@ The following recipe should be sufficient for 5 people.
 
 ## Ingredients
 1. 0.75 kg = 1.65 pounds of mutton
-2. 4 cups of Basmatic Rice
-3. 1/2 Purple onion slices
-4. 8 Tomatoes
-5. 3 Green chillies
+2. 4 cups of basmatic rice
+3. 1/2 purple onion sliced
+4. 8 tomatoes
+5. 3 green chillis
 6. 1 bunch of mint leaves
 7. 1 bunch of coriander leaves
 8. 2 small pieces of cinnamon sticks
 9. 4 cardamon
 10. 4 cloves
-11. 2 whole Bay leaves
+11. 2 whole bay leaves
 12. Oil - Sanola or sunflower
 13. Ghee
-14. 1/2 cup of yogurt - Fat free
-15. 1 tbsp Ginger Garlic paste
-16. Red chillie powder
+14. 1/2 cup of yogurt - fat free
+15. 1 tbsp ginger garlic paste
+16. Red chilli powder
 
 ## Method
 1. Wash mutton well and cut in medium pieces (ask store for biryani size)
