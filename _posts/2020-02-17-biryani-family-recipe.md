@@ -23,6 +23,9 @@ The following recipe should be sufficient for 5 people.
 15. 1 tbsp ginger garlic paste
 16. Red chilli powder
 
+
+{% include image.html name="ingredients_layedout.jpg" caption="Biryani Ingredients" %}
+
 ## Method
 1. Wash mutton well and cut in medium pieces (ask store for biryani size)
 2. Heat 2 tbs of oil and 1 tbsp of ghee in a large rice cooker
