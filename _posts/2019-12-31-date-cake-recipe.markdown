@@ -11,20 +11,22 @@ toc: true
 4. Powdered Sugar - 250 g
 5. Vanila extract - 3 tsp
 6. Baking powder - 1.5 tsp
-7. Butter - 250 g
+7. Baking soda - 1 tsp
+8. Butter - 250 g
 
 ## Recipe
 1. Soak dates in 1 cup of hot water with 1 tsp of baking soda - previous day
 2. Bring butter to room temperature 4 hours before prep
-3. Press the soaked dates with a laddle and blend it in a blender until it becomes a paste
+3. Press the soaked dates with a laddle and blend it in a blender until it becomes a paste (don't have to drain the left over water in the dates before blending)
 4. Separate the white from the yellow of the eggs
 5. Beat the white with the beater until it becomes frothy
 6. Beat the butter in a separate bowl and then add sugar and beat as well. It should become a fine gel
-7. Add the frothy egg white to the butter/sugar mixture
-8. Beat the yellow and add it as well
+7. Add the frothy egg white to the butter/sugar mixture and blend it in
+8. Beat the yellow and add it as well and blend it in
 9. Mix all purpose flour with-baking powder and 1 pinch salt
 10. Add 1/4 of the flour mixture to the batter mixture while mixing clockwise with a laddle (DO NOT USE A BEATER). After its fully mixed add another 1/4 and repeat until all the flour mixture is added to the batter.
 11. Add the ground dates and vanilla extract to the batter andd mix them
+{% include image.html name="cake_batter.jpg" caption="Cake batter" %}
 12. Pre-heat oven to 350 F (190 C)
 13. Add the mixture to cake tray after coating it with butter to prevent the cake from sticking
 14. Set timer for 20 minutes and place the cake tray in pre-heated oven
