@@ -114,7 +114,8 @@ Here are some stats
 
 ### Started a family tradition to make date cake 2 years in a row
 
-{% include image.html name="date-cake.jpg" caption="Image" %}
+[Here](https://blog.nishantrayan.com/2019/12/31/date-cake-recipe.html) is the recipe
+{% include image.html name="final_cake.jpg" caption="Image" %}
 
 ### and most importantly, **SURVIVED A FREAKIN' GLOBAL PANDEMIC.**
 
