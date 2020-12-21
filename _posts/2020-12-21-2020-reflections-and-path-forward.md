@@ -64,7 +64,7 @@ Here are some stats
 
 ### Ran consistently on treadmill everyday for 3 months straight
 
-{% include image.html name="fitbit-stats.jpg" caption="Image" %}
+{% include image.html name="fitbit-stats.png" caption="Image" %}
 
 ### Supported family through some tough times
    * Helped with reconstruction of part of our home in India
