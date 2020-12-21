@@ -15,21 +15,23 @@ Every year, sometime in December I look back at my life and think about the thin
 
 I always start off by re-evaluating my [principles](https://blog.nishantrayan.com/2019/02/18/principles.html). The key question2 I ask my self are,
 
+1. How did I do for each principle? This is a measure of **consistency**. _This shows if I am consistently living up to my principles (or not). This can help highlight gaps in my living and either bridge them or proceed to the following steps to update my principles_ 
 1. Has anything **changed** in the last year that has conflicted or contradicted with my principles. _This usually means my principles are at odds with my reality and it might be time to sunset them_
-2. Has anything **new** that has come up that does not or could not be fit within the outlined principles. _This usually means my principles do not fully encompass my reality and I cannot apply them consistently in my life and it might be time to add new ones_
+1. Has anything **new** that has come up that does not or could not be fit within the outlined principles. _This usually means my principles do not fully encompass my reality and I cannot apply them consistently in my life and it might be time to add new ones_
 
 These questions are important to ask because it is crucial to keep them up to date. If done well, they provide a solid rock to base most of my life. Similar to the foundation of a well built home, principles form the foundation of a well-lived life for me.
 
-Here are my categories of principles,
+_side note: Although it might feel like they should have been called "goals" instead of principles, I prefer using the word "principle" simply because goal indicates existence of destination or an end state. Most of what I (want to) do doesn't have a destination. For example, healthy living is not a destination but a principle of life for me_ 
 
-|Principle  |What I did |
-|-----------|-----------|
-|Exercise every day | I exercised everyday for 3 months |
-|Eat healthily      | I meal prepped every week for 4 months |
-|Healthy mind       | I medidated every week for about 3 months and read 3 self improving books |
-|Form habits to grow| Formed morning ritual to make bed, have coffee and breakfast and watch news and hole up in study room for work and have night time routine|
-|Self motivate      | Start learning Spanish with preply|
-|Help others to succeed | I did not do much here|
+### How did I do?
+Here is my self evaluation,
 
-
+|Principle  |What I did |Rating (1-10) |
+|-----------|-----------|-------|
+|Exercise every day | I exercised everyday for 3 months |6|
+|Eat healthily      | I meal prepped every week for 4 months |7|
+|Healthy mind       | I medidated every week for about 3 months and read 3 self improving books |5|
+|Form habits to grow| Formed morning ritual to make bed, have coffee and breakfast and watch news and hole up in study room for work and have night time routine|8|
+|Self motivate      | Started learning Spanish with preply|7|
+|Help others to succeed | I supported my family|2|
 
