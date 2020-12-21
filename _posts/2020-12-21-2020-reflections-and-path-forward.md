@@ -110,7 +110,7 @@ Here are some stats
 
 ### Flossed every day and significantly improved my gum health
 
-{% include image.html name="oral-hygiene.jpg" caption="Image" %}
+{% include image.html name="teeth-health.jpg" caption="Image" %}
 
 ### Started a family tradition to make date cake 2 years in a row
 
