@@ -23,10 +23,12 @@ These questions are important to ask because it is crucial to keep them up to da
 
 _side note: Although it might feel like they should have been called "goals" instead of principles, I prefer using the word "principle" simply because goal indicates existence of destination or an end state. Most of what I (want to) do doesn't have a destination. For example, healthy living is not a destination but a principle of life for me_ 
 
-### How did I do?
+## How did I do?
 
 Here is the complete list of things I accomplished in 2020
-* Consistently learnt Spanish from instructor from Guatemala (on Preply). Here are some stats
+
+### Consistently learnt Spanish from instructor from Guatemala (on Preply). 
+Here are some stats
    
 |Month   | Classes   |
 |--------|-----------|
@@ -40,80 +42,80 @@ Here is the complete list of things I accomplished in 2020
 |November   |  4|
 |December   |  6|
 
-* Meal prepped every week for 4 months straight
+### Meal prepped every week for 4 months straight
 
 {% include image.html name="meal-prep-books.jpg" caption="Image" %}
 
-* Balanced work/life during a pandemic
+### Balanced work/life during a pandemic
 
 {% include image.html name="work-desk-setup.jpg" caption="Image" %}
    
-* Got my green card 
+### Got my green card 
    
 {% include image.html name="green-card.jpg" caption="Image" %}
 
-* Binge watched Dexter on Netflix
+### Binge watched Dexter on Netflix
 
 {% include image.html name="netflix-dexter.jpg" caption="Image" %}
 
-* Finished XCOM2 (strategy game) on Steam
+### Finished XCOM2 (strategy game) on Steam
 
 {% include image.html name="xcom-stats.jpg" caption="Image" %}
 
-* Ran consistently on treadmill everyday for 3 months straight
+### Ran consistently on treadmill everyday for 3 months straight
 
 {% include image.html name="fitbit-stats.jpg" caption="Image" %}
 
-* Supported family through some tough times
+### Supported family through some tough times
    * Helped with reconstruction of part of our home in India
    
-* Took guitar lessons with BlueBear music (online)
+### Took guitar lessons with BlueBear music (online)
    * Oh yes! Invested in some nice guitar
    
 {% include image.html name="guitars.jpg" caption="Image" %}
 
-* Automated many aspects of my life through SmartHome projects
+### Automated many aspects of my life through SmartHome projects
 
 {% include image.html name="automate-good-night" caption="Image" %}
 
-* Locked interest rate at 2.875% for mortgage
+### Locked interest rate at 2.875% for mortgage
 
 {% include image.html name="interest-rate-lock.jpg" caption="Image" %}
 
-* Consistently invested 5k every month in S&P500
+### Consistently invested 5k every month in S&P500
 
 {% include image.html name="stock-growth.jpg" caption="Image" %}
 
-* Built and stuck to routine,
-    * Make bed
-    * Make coffee
-    * Make breakfast (cereal)
-    * Eat breakfast & Drink coffee while watching news on Haystack
-    * Call out "good night" to google home and have it automatically perform series of automation 
-      
+### Built and stuck to routine,
+ * Make bed
+ * Make coffee
+ * Make breakfast (cereal)
+ * Eat breakfast & Drink coffee while watching news on Haystack
+ * Call out "good night" to google home and have it automatically perform series of automation 
+   
 
 {% include image.html name="haystack-coffee-breakfast.jpg" caption="Image" %}
 
-* Grew Lavender from seeds and mint from cuttings 
+### Grew Lavender from seeds and mint from cuttings 
    
 {% include image.html name="plants-growth.jpg" caption="Image" %}
 
-* Transitioned from being a manager at Lyft to a Senior SDE at Amazon
+### Transitioned from being a manager at Lyft to a Senior SDE at Amazon
 
 {% include image.html name="linkedin-job-history.jpg" caption="Image" %}
 
-* Successfully delivered a key project at Amazon
+### Successfully delivered a key project at Amazon
    
 {% include image.html name="amazon-logo.jpg" caption="Image" %}
 
-* Flossed every day and significantly improved my gum health
+### Flossed every day and significantly improved my gum health
 
 {% include image.html name="oral-hygiene.jpg" caption="Image" %}
 
-* Started a family tradition to make date cake 2 years in a row
+### Started a family tradition to make date cake 2 years in a row
 
 {% include image.html name="date-cake.jpg" caption="Image" %}
 
-and most importantly, **SURVIVED A FREAKIN' GLOBAL PANDEMIC.**
+### and most importantly, **SURVIVED A FREAKIN' GLOBAL PANDEMIC.**
 
 {% include image.html name="hell-yeah.jpg" caption="Image" %}
