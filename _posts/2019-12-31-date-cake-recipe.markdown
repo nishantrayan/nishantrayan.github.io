@@ -18,4 +18,5 @@ toc: true
 * Soak dates in 1 cup of hot water with 1 tsp of baking soda - previous day
 * Bring butter to room temperature 4 hours before prep
 * Press the soaked dates with a laddle and blend it in a blender until it becomes a paste (don't have to drain the left over water in the dates before blending)
+
 {% include image.html name="dates_blended.jpg" caption="Dates blended %}
