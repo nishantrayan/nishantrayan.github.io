@@ -56,7 +56,7 @@ Here are some stats
 
 ### Binge watched Dexter on Netflix
 
-{% include image.html name="netflix-dexter.jpg" caption="Image" %}
+{% include image.html name="dexter.jpg" caption="Image" %}
 
 ### Finished XCOM2 (strategy game) on Steam
 
