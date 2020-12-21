@@ -82,9 +82,9 @@ Here are some stats
 
 {% include image.html name="interest-rate-locked.png" caption="Image" %}
 
-### Consistently invested 5k every month in S&P500
+### Consistently invested every month in S&P500
 
-{% include image.html name="stock-growth.jpg" caption="Image" %}
+{% include image.html name="invest-monthly.png" caption="Image" %}
 
 ### Built and stuck to routine,
  * Make bed
