@@ -15,8 +15,8 @@ toc: true
 8. Butter - 250 g
 
 ## Recipe
-1. Soak dates in 1 cup of hot water with 1 tsp of baking soda - previous day
-2. Bring butter to room temperature 4 hours before prep
+* Soak dates in 1 cup of hot water with 1 tsp of baking soda - previous day
+* Bring butter to room temperature 4 hours before prep
 3. Press the soaked dates with a laddle and blend it in a blender until it becomes a paste (don't have to drain the left over water in the dates before blending)
 4. Separate the white from the yellow of the eggs
 5. Beat the white with the beater until it becomes frothy
