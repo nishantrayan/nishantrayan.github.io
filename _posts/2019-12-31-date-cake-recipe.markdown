@@ -26,7 +26,9 @@ toc: true
 9. Mix all purpose flour with-baking powder and 1 pinch salt
 10. Add 1/4 of the flour mixture to the batter mixture while mixing clockwise with a laddle (DO NOT USE A BEATER). After its fully mixed add another 1/4 and repeat until all the flour mixture is added to the batter.
 11. Add the ground dates and vanilla extract to the batter andd mix them
+
 {% include image.html name="cake_batter.jpg" caption="Cake batter" %}
+
 12. Pre-heat oven to 350 F (190 C)
 13. Add the mixture to cake tray after coating it with butter to prevent the cake from sticking
 14. Set timer for 20 minutes and place the cake tray in pre-heated oven
