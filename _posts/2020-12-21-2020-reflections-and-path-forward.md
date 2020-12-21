@@ -24,14 +24,30 @@ These questions are important to ask because it is crucial to keep them up to da
 _side note: Although it might feel like they should have been called "goals" instead of principles, I prefer using the word "principle" simply because goal indicates existence of destination or an end state. Most of what I (want to) do doesn't have a destination. For example, healthy living is not a destination but a principle of life for me_ 
 
 ### How did I do?
-Here is my self evaluation,
 
-|Principle  |What I did |Rating (1-10) |
-|-----------|-----------|-------|
-|Exercise every day | I exercised everyday for 3 months |6|
-|Eat healthily      | I meal prepped every week for 4 months |7|
-|Healthy mind       | I medidated every week for about 3 months and read 3 self improving books |5|
-|Form habits to grow| Formed morning ritual to make bed, have coffee and breakfast and watch news and hole up in study room for work and have night time routine|8|
-|Self motivate      | Started learning Spanish with preply|7|
-|Help others to succeed | I supported my family|2|
+Here is the complete list of things I accomplished in 2020
+1. Consistently learnt Spanish from instructor from Guatemala (on Preply)
+1. Meal prepped every week for 4 months straight
+1. Balanced work/life during a pandemic
+1. Got my green card
+1. Binge watched Dexter on Netflix
+1. Finished XCOM2 (strategy game) on Steam 
+1. Ran consistently on treadmill everyday for 3 months straight
+1. Supported family through some tough times
+1. Took guitar lessons with BlueBear music (online)
+1. Automated many aspects of my life through SmartHome projects
+1. Locked interest rate at 2.875% for mortgage
+1. Consistently invested 5k every month in S&P500
+1. Built and stuck to routine,
+    * Make bed
+    * Make coffee
+    * Make breakfast (cereal)
+    * Eat breakfast & Drink coffee while watching news on Haystack
+    * Call out "good night" to google home and have it automatically perform series of automation
+1. Grew Lavender from seeds and mint from cuttings
+1. Transitioned from being a manager at Lyft to a Senior SDE at Amazon
+1. Successfully delivered a key project at Amazon
+1. Flossed every day and significantly improved my gum health
+1. Started a family tradition to make date cake 2 years in a row
 
+and most importantly, **SURVIVED A FREAKIN' GLOBAL PANDEMIC.**
