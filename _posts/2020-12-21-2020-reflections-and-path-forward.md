@@ -80,7 +80,7 @@ Here are some stats
 
 ### Locked interest rate at 2.875% for mortgage
 
-{% include image.html name="interest-rate-lock.jpg" caption="Image" %}
+{% include image.html name="interest-rate-locked.png" caption="Image" %}
 
 ### Consistently invested 5k every month in S&P500
 
