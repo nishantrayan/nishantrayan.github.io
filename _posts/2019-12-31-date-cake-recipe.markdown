@@ -29,3 +29,18 @@ toc: true
 * Mix all purpose flour with-baking powder and 1 pinch salt
 * Add 1/4 of the flour mixture to the batter mixture while mixing clockwise with a laddle (DO NOT USE A BEATER). After its fully mixed add another 1/4 and repeat until all the flour mixture is added to the batter.
 * Add the ground dates and vanilla extract to the batter andd mix them
+
+{% include image.html name="batter.jpg" caption="Cake batter" %}
+
+* Pre-heat oven to 350 F (190 C)
+* Add the mixture to cake tray after coating it with butter to prevent the cake from sticking
+* Set timer for 20 minutes and place the cake tray in pre-heated oven
+* After 20 minutes reduce the temperature to 325 F and bake for 10 more minutes
+* Finally reduce the temperature to 300 F and bake for 10 more minutes
+* Gently poke the cake with a fork or toothpick to check for consistency. If the cake is not fully cooked the fork will dig in easily.
+* If the cake is not fully cooked let it bake for 10 more minutes (optional) ONLY if it doesn't appear too burned on the outside
+* Once fully cooked remove the cake from the oven and invert it onto a tray. The cake should drop easily onto a flat surface
+* If there is dark rim on the cake delicately trim them away
+* Slice and serve. Enjoy!
+
+{% include image.html name="final_cake.jpg" caption="Final Cake" %}
