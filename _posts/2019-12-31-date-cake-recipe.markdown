@@ -18,7 +18,9 @@ toc: true
 * Soak dates in 1 cup of hot water with 1 tsp of baking soda - previous day
 * Bring butter to room temperature 4 hours before prep
 * Press the soaked dates with a laddle and blend it in a blender until it becomes a paste (don't have to drain the left over water in the dates before blending)
+
 {% include image.html name="dates_blended.jpg" caption="Dates blended" %}
+
 * Separate the white from the yellow of the eggs
 * Beat the white with the beater until it becomes frothy
 * Beat the butter in a separate bowl and then add sugar and beat as well. It should become a fine gel
