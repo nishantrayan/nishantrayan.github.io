@@ -106,7 +106,7 @@ Here are some stats
 
 ### Successfully delivered a key project at Amazon
    
-{% include image.html name="amazon-logo.jpg" caption="Image" %}
+{% include image.html name="amazon-music-logo.jpg" caption="Image" %}
 
 ### Flossed every day and significantly improved my gum health
 
