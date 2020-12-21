@@ -102,7 +102,7 @@ Here are some stats
 
 ### Transitioned from being a manager at Lyft to a Senior SDE at Amazon
 
-{% include image.html name="linkedin-job-history.jpg" caption="Image" %}
+{% include image.html name="linkedin-job-history.png" caption="Image" %}
 
 ### Successfully delivered a key project at Amazon
    
