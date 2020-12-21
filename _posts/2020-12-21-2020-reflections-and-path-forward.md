@@ -52,7 +52,7 @@ Here are some stats
    
 ### Got my green card 
    
-{% include image.html name="green-card.jpg" caption="Image" %}
+{% include image.html name="green-card.png" caption="Image" %}
 
 ### Binge watched Dexter on Netflix
 
