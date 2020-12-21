@@ -60,7 +60,7 @@ Here are some stats
 
 ### Finished XCOM2 (strategy game) on Steam
 
-{% include image.html name="xcom-stats.jpg" caption="Image" %}
+{% include image.html name="xcom-complete.jpeg" caption="Image" %}
 
 ### Ran consistently on treadmill everyday for 3 months straight
 
