@@ -84,7 +84,7 @@ Here are some stats
 
 ### Consistently invested every month in S&P500
 
-{% include image.html name="invest-monthly.png" caption="Image" %}
+{% include image.html name="consistent-invest.png" caption="Image" %}
 
 ### Built and stuck to routine,
  * Make bed
