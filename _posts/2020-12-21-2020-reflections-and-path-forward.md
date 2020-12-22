@@ -94,7 +94,7 @@ Here are some stats
  * Call out "good night" to google home and have it automatically perform series of automation 
    
 
-{% include image.html name="haystack-coffee-breakfast.jpg" caption="Image" %}
+{% include image.html name="morning-routine.jpg" caption="Image" %}
 
 ### Grew Lavender from seeds and mint from cuttings 
    
