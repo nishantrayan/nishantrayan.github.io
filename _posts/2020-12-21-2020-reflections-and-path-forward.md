@@ -44,11 +44,11 @@ Here are some stats
 
 ### Meal prepped every week for 4 months straight
 
-{% include image.html name="meal-prep-books.jpg" caption="Image" %}
+{% include image.html name="meal-prep.jpg" caption="Image" %}
 
 ### Balanced work/life during a pandemic
 
-{% include image.html name="work-desk-setup.jpg" caption="Image" %}
+{% include image.html name="work-setup.jpg" caption="Image" %}
    
 ### Got my green card 
    
@@ -72,7 +72,7 @@ Here are some stats
 ### Took guitar lessons with BlueBear music (online)
    * Oh yes! Invested in some nice guitar
    
-{% include image.html name="guitars.jpg" caption="Image" %}
+{% include image.html name="guitar.jpg" caption="Image" %}
 
 ### Automated many aspects of my life through SmartHome projects
 
@@ -98,7 +98,7 @@ Here are some stats
 
 ### Grew Lavender from seeds and mint from cuttings 
    
-{% include image.html name="plants-growth.jpg" caption="Image" %}
+{% include image.html name="plants.jpg" caption="Image" %}
 
 ### Transitioned from being a manager at Lyft to a Senior SDE at Amazon
 
