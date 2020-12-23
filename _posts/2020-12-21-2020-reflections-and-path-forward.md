@@ -112,3 +112,6 @@ Here are some stats
 ### and most importantly, **SURVIVED A FREAKIN' GLOBAL PANDEMIC.**
 
 {% include image.html name="hell-yeah.jpg" caption="Image" %}
+
+## Overall
+I think I did pretty well this year given the circumstances. I enjoyed the year and the challenges it posed to me. Yes, there were moments where I felt anxious but for the most part I was able to move past them and once again, thanks to my strong group of family and friends.
