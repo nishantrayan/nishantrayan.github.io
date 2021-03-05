@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2021 burden of unfinished work"
+title:  "The burden of unfinished work"
 toc: true
 ---
 {:toc}
