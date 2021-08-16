@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "2021 Reflections After my Vacation"
+toc: true
+---
+{:toc}
+
+
 For me, the best time to self-reflect is after a good vacation. I had one of those recently. Just unplugging from work and general rhythm of life is a huge game changer for me. I came back with some perspective on what has been working for me and things I need to change about myself.
 The most important realization I had was that my life doesn't suck as much as I originally thought despite the pandemic. Have a wonderful family, switched to a new job that keeps me challenged and busy in a good way and of course, there are things that are not going well that I need to work on.
 Warning: This post is going to seem like a collection of menial things in life but I prefer not to underestimate them. It is important to acknowledge and to work on the basics sometimes, as collectively they make life interesting
