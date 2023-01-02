@@ -40,4 +40,5 @@ Yes, these are not very hard rule and the boundaries are blurry. For example, sl
 One of the perks of being in a mutually respectful relationship is that we get to bring our strengths to the table and amplify each other. I know I am not good at everything and I know that my wife is not either. However, when we operate together, we can do more than what we can do as individual. In 2022, I witnessed this first hand. Sure, it is sometimes it is hard to be stalled because the other person feels differently about a certain decision. It is frustrating at times. But, ultimately, things worked out for the best and I have learnt to appreciate that my way is not always the best way and there is someone who is also looking out for me and family.
 
 
+### Conclusion
 Overall, I hope that 2023 is going to be a great year for me and my family and I am super excited about all the lows *and* highs it has in store for me to make me a better human being. My time on earth is limited and years are just markers that remind me of that elegant and inescapable reality. I appreciate it and look forward it.
