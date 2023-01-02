@@ -9,6 +9,8 @@ I ended the year with 2.5 hour morning routing that I was able to follow 2 weeks
 2. 6:15 am - 6:55 am - Read book
 3. 6:55 am - 7:15 am - Sit still and reflect
 4. 7:15 am to 8 am - Wake up my son and have breakfast together
+
+
 My son and I have been able to spend quality 1 hour in the morning despite some work heavy days. In addition, it has given a big break for my wife so she can focus on resting and focus on other things.
 I could be doing better at communication in relationship. My words failed to carry my intentions at times leading to mis understanding on both sides. Despite best efforts, things fell short and something I wish to get better in 2023. With my transition to management, I had to take a step back from hands on work but still be connected. I am still trying to figure out the right balance for my team. I am still proud of my team and the fact that we were able to grow from a 1 engineer team to a team of 5.
 
@@ -30,3 +32,12 @@ Many people around me want me to feel a certain way. I refuse to comply. My inne
 One of the principles in Ray Dalio's book on Principles is the "Seek to Understand". This starts with simple questions with an open mind. This simple exercise that is hard to practice in reality has helped me in more ways than what I can list here. It has been hard. As a human, I always want to react negatively against someone who has done wrong. Resisting that and really trying to understand the motivation and cause of such acts is easier said than done. I do want to acknowledge that there are places and times where standing by and simply trying to understand is not appropriate but those are few and far in between events.
 
 #### Health > Family > Work > Money
+
+Having good health is going to be the most important thing for me this year. If I have good health, I can take good care of my family and when my family is happy, I am able to focus on work and if it is the right work for me, it wil give me financial stability. 
+Yes, these are not very hard rule and the boundaries are blurry. For example, sleeping for 10 hours and exercising for 2 hours every day is going to give me better health than if I don't do them. However, there is a trade off w.r.t time and what I have to accomplish in them. The good thing is, I get to define those boundaries and stick with them. But if I do have to choose between 2 equally important tasks in more than one of those categories, I will appy this rule
+
+#### 2 >> 1 + 1
+One of the perks of being in a mutually respectful relationship is that we get to bring our strengths to the table and amplify each other. I know I am not good at everything and I know that my wife is not either. However, when we operate together, we can do more than what we can do as individual. In 2022, I witnessed this first hand. Sure, it is sometimes it is hard to be stalled because the other person feels differently about a certain decision. It is frustrating at times. But, ultimately, things worked out for the best and I have learnt to appreciate that my way is not always the best way and there is someone who is also looking out for me and family.
+
+
+Overall, I hope that 2023 is going to be a great year for me and my family and I am super excited about all the lows *and* highs it has in store for me to make me a better human being. My time on earth is limited and years are just markers that remind me of that elegant and inescapable reality. I appreciate it and look forward it.
