@@ -62,3 +62,4 @@ Make sure you have the following ingredients on hand
 30. Open and gently serve without breaking the rice
 
 Enjoy!
+{% include image.html name="final_plate.png" caption="Plate of Biryani" %}
