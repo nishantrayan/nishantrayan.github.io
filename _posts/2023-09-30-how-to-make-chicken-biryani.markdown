@@ -14,7 +14,7 @@ Make sure you have the following ingredients on hand
 |------------|----------|
 | Purple onion    | 200 g     |
 | Oil    | 100 g     |
-| Green Cardomon   | 3 pieces      |
+| Green Cardamom   | 3 pieces      |
 | Cloves      | 3 pieces     |
 | Cinnamon      | 3 pieces     |
 | Cilantro      | 1/4 bunch     |
@@ -27,3 +27,5 @@ Make sure you have the following ingredients on hand
 | Salt      | 1 tbsp     |
 | Chicken      | 500 g     |
 | Rice      | 500 g     |
+
+## Process
