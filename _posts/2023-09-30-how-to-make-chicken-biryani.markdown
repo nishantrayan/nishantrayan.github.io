@@ -10,6 +10,7 @@ Following the recipe for half kg chicken biryani transcripted from Food Area Tam
 
 ## Ingredients
 Make sure you have the following ingredients on hand
+
 | Ingredient | Quantity |
 |------------|----------|
 | Purple onion    | 200 g     |
