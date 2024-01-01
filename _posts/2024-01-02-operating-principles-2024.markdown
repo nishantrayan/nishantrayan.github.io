@@ -18,7 +18,7 @@ There are so many perspectives in this world. There are no good or bad perspecti
 ### Family first
 This has bode well for me in 2023. I have always put family first whenever the choices are hard. I have taken time off from work despite deadline to support sick family member and when I couldn't find any other support. I will continue to make similar choices and ensure that my family thrives even when it means my career takes a little bit of hit.
 
-## Build relationships
+### Build relationships
 2023 has been a great year for me to form new connections with old friends. I want to build meaningful relationships with people who I care about the most and people I can call to support or seek support. I believe this is very important for me to live a long and lasting life. 
 
 ## Conclusion
