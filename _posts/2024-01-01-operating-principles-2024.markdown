@@ -28,7 +28,7 @@ There are numerous perspectives in the world. Perspectives themselves are neithe
 
 ## Family first
 
-This has served me well in 2023. I have always prioritized my family, even when faced with difficult decisions. I have taken time off from work, even when facing deadlines, to support a sick family member when there was no other support available. I will continue to make similar choices and ensure that my family thrives, even if it means my career takes a slight hit.
+This has served me well in 2023. I have always prioritized my family, even when faced with difficult decisions. I have taken time off from work, even when facing deadlines, to support a sick family member when there was no other support available. I will continue to make similar choices and ensure that my family thrives, even if it means my career takes a slight hit. **Having fun in a responsible way is a way to take care of family**
 
 ## Build relationships
 
