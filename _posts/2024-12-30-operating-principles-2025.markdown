@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Operating Principles 2024"
+title:  "Operating Principles 2025"
 ---
 2024 was a challenging year filled with obstacles. The first few months after my second son's birth were especially difficult, as my wife and I battled health issues amid countless sleepless nights. We hired nannies who helped during weekends, but after realizing they weren't the right fit, we fortunately found someone better. We also made the switch to an electric vehicle, trading in our gas car. While I enjoy driving it, I'm still adjusting to the charging routine.
 
