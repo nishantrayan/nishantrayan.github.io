@@ -110,6 +110,3 @@ Quadrant 4 is the land of ruthless elimination. Cutting, delegating, or automati
 - **Quadrant 4:** Eliminate, delegate, automate, or set boundaries.
 
 This framework creates instant clarity. Use it to assess and organize tasks for a more productive, fulfilling workflow.
-```
-
-[1](https://docs.google.com/document/d/1r-nuLa7EqKR2yu6Xw7akuLIBMx73EP9e6yV7VnTEqaY/edit?tab=t.0)
